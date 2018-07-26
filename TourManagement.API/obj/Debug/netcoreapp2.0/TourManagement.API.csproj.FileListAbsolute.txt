@@ -1,0 +1,11 @@
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.deps.json
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.json
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.dev.json
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.dll
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.pdb
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csprojAssemblyReference.cache
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.dll
+C:\Users\ahmad\source\repos\angular-aspdotnet-core-business-applications\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.pdb
